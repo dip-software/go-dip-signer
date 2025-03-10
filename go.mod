@@ -1,4 +1,4 @@
-module github.com/philips-software/go-nih-signer
+module github.com/dip-software/go-dip-signer
 
 go 1.14
 

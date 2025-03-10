@@ -1,5 +1,4 @@
-[![Build Status](https://travis-ci.com/philips-software/go-nih-signer.svg?branch=master)](https://travis-ci.com/philips-software/go-nih-signer)
-[![Go Reference](https://pkg.go.dev/badge/github.com/philips-software/go-nih-signer.svg)](https://pkg.go.dev/github.com/philips-software/go-nih-signer)
+[![Go Reference](https://pkg.go.dev/badge/github.com/dip-software/go-dip-signer.svg)](https://pkg.go.dev/github.com/dip-software/go-dip-signer)
 
 # Go NIH Signer
 
@@ -12,7 +11,7 @@ You can sign a http.Request instance
 package main
 
 import (
-  "github.com/philips-software/go-nih-signer"
+  "github.com/dip-software/go-dip-signer"
   "net/http"
 )
 
