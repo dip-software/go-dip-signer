@@ -1,6 +1,6 @@
 [![Go Reference](https://pkg.go.dev/badge/github.com/dip-software/go-dip-signer.svg)](https://pkg.go.dev/github.com/dip-software/go-dip-signer)
 
-# Go NIH Signer
+# Go DIP Signer
 
 This package implements the API signing algorithm used in various HSP APIs.
 You can sign a http.Request instance 
